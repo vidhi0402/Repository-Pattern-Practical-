@@ -1,0 +1,15 @@
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\bin\Debug\netcoreapp3.1\Automapper.deps.json
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\bin\Debug\netcoreapp3.1\Automapper.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\bin\Debug\netcoreapp3.1\Automapper.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\obj\Debug\netcoreapp3.1\Automapper.csproj.AssemblyReference.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\obj\Debug\netcoreapp3.1\Automapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\obj\Debug\netcoreapp3.1\Automapper.AssemblyInfoInputs.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\obj\Debug\netcoreapp3.1\Automapper.AssemblyInfo.cs
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\obj\Debug\netcoreapp3.1\Automapper.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\obj\Debug\netcoreapp3.1\Automapper.csproj.CopyComplete
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\obj\Debug\netcoreapp3.1\Automapper.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Automapper\obj\Debug\netcoreapp3.1\Automapper.pdb

@@ -1,0 +1,15 @@
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\bin\Debug\netcoreapp3.1\Mapping.deps.json
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\bin\Debug\netcoreapp3.1\Mapping.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\bin\Debug\netcoreapp3.1\Mapping.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\obj\Debug\netcoreapp3.1\Mapping.csproj.AssemblyReference.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\obj\Debug\netcoreapp3.1\Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\obj\Debug\netcoreapp3.1\Mapping.AssemblyInfoInputs.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\obj\Debug\netcoreapp3.1\Mapping.AssemblyInfo.cs
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\obj\Debug\netcoreapp3.1\Mapping.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\obj\Debug\netcoreapp3.1\Mapping.csproj.CopyComplete
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\obj\Debug\netcoreapp3.1\Mapping.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Mapping\obj\Debug\netcoreapp3.1\Mapping.pdb

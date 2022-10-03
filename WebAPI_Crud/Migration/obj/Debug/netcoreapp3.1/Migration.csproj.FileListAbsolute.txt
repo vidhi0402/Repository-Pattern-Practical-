@@ -1,0 +1,13 @@
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\bin\Debug\netcoreapp3.1\Migration.deps.json
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\bin\Debug\netcoreapp3.1\Migration.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\bin\Debug\netcoreapp3.1\Migration.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.AssemblyReference.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\obj\Debug\netcoreapp3.1\Migration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfoInputs.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfo.cs
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.CopyComplete
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\obj\Debug\netcoreapp3.1\Migration.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Migration\obj\Debug\netcoreapp3.1\Migration.pdb

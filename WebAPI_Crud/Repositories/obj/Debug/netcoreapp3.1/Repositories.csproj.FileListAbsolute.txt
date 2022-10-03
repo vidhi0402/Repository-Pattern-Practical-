@@ -1,0 +1,15 @@
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.AssemblyReference.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\obj\Debug\netcoreapp3.1\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\vidhi\Desktop\Web API\WebAPI_Crud\Repositories\bin\Debug\netcoreapp3.1\ViewModel.pdb
